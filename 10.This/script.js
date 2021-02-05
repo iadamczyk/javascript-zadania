@@ -33,7 +33,7 @@ var Person1 = {
   Person2.add();
   Person2.info();
   
-  //2
+//2
   Person1.favDish = ['tea'];
   Person2.favDish = ['broccoli soup'];
   
